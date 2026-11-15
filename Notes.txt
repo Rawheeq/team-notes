@@ -1,2 +1,2 @@
-This is the original note.
+This is the line from Person A
 This is my second commit!
