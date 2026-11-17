@@ -1,2 +1,2 @@
-This is the line from Person A
+Line 1 changed by Person A.
 This is the line from Person B
